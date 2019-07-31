@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         //Para inicializar el frame de home al comienzo en la app
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
                 new HomeFragment()).commit();
+
+
     }
 
     private BottomNavigationView.OnNavigationItemSelectedListener navListener =
