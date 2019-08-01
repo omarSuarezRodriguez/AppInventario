@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App Inventario</string>
+    <string name="item_hint_nombre">Item</string>
+    <string name="item_hint_orden">Orden</string>
 </resources>
