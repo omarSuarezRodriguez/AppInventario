@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //setContentView(R.layout.item_catalogue);
 
-        ButterKnife.bind(this);
+//        ButterKnife.bind(this);
 
 
 
